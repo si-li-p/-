@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'xiaomi';
+  src:  url('fonts/xiaomi.eot?1pqrso');
+  src:  url('fonts/xiaomi.eot?1pqrso#iefix') format('embedded-opentype'),
+    url('fonts/xiaomi.ttf?1pqrso') format('truetype'),
+    url('fonts/xiaomi.woff?1pqrso') format('woff'),
+    url('fonts/xiaomi.svg?1pqrso#xiaomi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="xiaomi-"], [class*=" xiaomi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'xiaomi' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.xiaomi-uniE905:before {
+  content: "\e905";
+}
+.xiaomi-3:before {
+  content: "\e902";
+}
+.xiaomi-2:before {
+  content: "\e903";
+}
+.xiaomi-1:before {
+  content: "\e904";
+}
+.xiaomi-shandian:before {
+  content: "\e900";
+}
+.xiaomi-arrow-right:before {
+  content: "\e901";
+}
+.xiaomi-cart:before {
+  content: "\e93a";
+}
+.xiaomi-mobile:before {
+  content: "\e958";
+}
+.xiaomi-bubble2:before {
+  content: "\e96e";
+}
+.xiaomi-user:before {
+  content: "\e971";
+}
+.xiaomi-search:before {
+  content: "\e986";
+}
+.xiaomi-wrench:before {
+  content: "\e991";
+}
+.xiaomi-play3:before {
+  content: "\ea1c";
+}
+.xiaomi-arrow-right2:before {
+  content: "\ea3c";
+}
